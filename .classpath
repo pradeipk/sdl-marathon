@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/8.5.38/tomcat-embed-core-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-annotations-api/8.5.38/tomcat-annotations-api-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-jasper/8.5.38/tomcat-embed-jasper-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/8.5.38/tomcat-embed-el-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-jasper/8.5.38/tomcat-jasper-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-servlet-api/8.5.38/tomcat-servlet-api-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-juli/8.5.38/tomcat-juli-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-jsp-api/8.5.38/tomcat-jsp-api-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-el-api/8.5.38/tomcat-el-api-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-jasper-el/8.5.38/tomcat-jasper-el-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-api/8.5.38/tomcat-api-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-util-scan/8.5.38/tomcat-util-scan-8.5.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-util/8.5.38/tomcat-util-8.5.38.jar"/>
+</classpath>
